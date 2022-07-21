@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
-import { MainComponent } from './components/main/main.component';
+import { ContentComponent } from './components/content/content.component';
 import { SiderbarComponent } from './components/siderbar/siderbar.component';
 
 @NgModule({
@@ -12,7 +12,7 @@ import { SiderbarComponent } from './components/siderbar/siderbar.component';
     AppComponent,
     HeaderComponent,
     NavbarComponent,
-    MainComponent,
+    ContentComponent,
     SiderbarComponent
   ],
   imports: [

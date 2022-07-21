@@ -29,7 +29,7 @@
     /* background-color: blue; */
  }
 
- .main {
+ .content {
     width: auto;
     max-width: calc(100% - 250px);
  }
